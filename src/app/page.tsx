@@ -3,6 +3,7 @@ import Clients from '@/components/clients';
 import ContactUs from '@/components/contact-us';
 import Footer from '@/components/footer';
 import Services from '@/components/services';
+import Team from '@/components/team';
 import WorkingProcess from '@/components/working-process';
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <Services />
       <ContactUs />
       <WorkingProcess />
+      <Team />
       <Footer />
     </main>
   );

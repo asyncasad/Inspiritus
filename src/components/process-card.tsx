@@ -22,7 +22,7 @@ const ProcessCard = ({
         }
       )}
     >
-      <div className="flex flex-row items-center justify-between">
+      <div className="flex flex-row items-center justify-between gap-5">
         <div className="flex flex-row items-center gap-5">
           <h1 className="font-medium ~text-[30px]/[60px]">
             {index}
