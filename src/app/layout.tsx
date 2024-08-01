@@ -7,7 +7,7 @@ import './globals.css';
 const space_grotesk = Space_Grotesk({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Positivus',
+  title: 'Inspiritus',
 };
 
 export default function RootLayout({
