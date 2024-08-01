@@ -18,7 +18,7 @@ const Button: React.FC<ButtonProps> = ({
   return (
     <button
       className={cn(
-        'py-5 text-center px-[35px] rounded-lg text-lg w-max',
+        'py-5 text-center px-[35px] rounded-[14px] text-lg w-max',
         {
           'bg-dark text-white': variant === 'dark',
         },
